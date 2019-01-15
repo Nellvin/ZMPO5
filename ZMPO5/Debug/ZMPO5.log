@@ -1,0 +1,51 @@
+﻿  AG.cpp
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(91): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(111): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(130): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(240): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(296): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(315): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(74): warning C4018: '<': signed/unsigned mismatch
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(71): note: while compiling class template member function 'CIndividual<bool>::CIndividual(CIndividual<bool> &)'
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(7): note: see reference to class template instantiation 'CIndividual<bool>' being compiled
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(160): warning C4018: '<': signed/unsigned mismatch
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(143): note: while compiling class template member function 'bool CIndividual<bool>::cCrossIndividuals(CIndividual<bool> &,std::vector<CIndividual<bool> *,std::allocator<_Ty>> *,double,int *)'
+          with
+          [
+              _Ty=CIndividual<bool> *
+          ]
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(170): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(175): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(195): warning C4018: '<': signed/unsigned mismatch
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(187): note: while compiling class template member function 'bool CIndividual<bool>::cAnotherCrossIndividuals(CIndividual<bool> &,std::vector<CIndividual<bool> *,std::allocator<_Ty>> *,double,int *)'
+          with
+          [
+              _Ty=CIndividual<bool> *
+          ]
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(210): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(215): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(270): warning C4018: '<': signed/unsigned mismatch
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(255): note: while compiling class template member function 'CIndividual<bool> &CIndividual<bool>::operator +(CIndividual<bool> &)'
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(396): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(384): note: while compiling class template member function 'CGeneticAlgorithm<int>::CGeneticAlgorithm(CProblem<T> *,int,double,double,int,double)'
+          with
+          [
+              T=int
+          ]
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(338): note: see reference to class template instantiation 'CGeneticAlgorithm<int>' being compiled
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(453): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(401): note: while compiling class template member function 'void CGeneticAlgorithm<int>::vRun(void)'
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(456): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(501): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(506): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(515): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(525): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(533): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(536): warning C4018: '<': signed/unsigned mismatch
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(546): warning C4018: '<': signed/unsigned mismatch
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(545): note: while compiling class template member function 'void CGeneticAlgorithm<int>::vDeleteOldPopulation(void)'
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(514): note: see reference to function template instantiation 'void CGeneticAlgorithm<int>::vDeleteOldPopulation(void)' being compiled
+c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(580): warning C4018: '<': signed/unsigned mismatch
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(579): note: while compiling class template member function 'void CGeneticAlgorithm<int>::vAssignFitnessForIndiviuals(void)'
+  c:\users\polarfox\source\repos\zmpo5\zmpo5\ag.cpp(448): note: see reference to function template instantiation 'void CGeneticAlgorithm<int>::vAssignFitnessForIndiviuals(void)' being compiled
+  ZMPO5.vcxproj -> C:\Users\polarfox\source\repos\ZMPO5\Debug\ZMPO5.exe
